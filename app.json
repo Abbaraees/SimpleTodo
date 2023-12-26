@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.abba_raees.SimpleTodo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "953d8c03-c62c-4d01-ba3a-67b43e989956"
+      }
+    },
+    "owner": "abba_raees"
   }
 }
